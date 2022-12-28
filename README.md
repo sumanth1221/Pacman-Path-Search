@@ -1,7 +1,7 @@
-# Breakthrough Game
-Breakthrough is an abstract strategy board game invented by Dan Troyka in 2000 and made available as a Zillions of Games file (ZRF). 
-It won the 2001 8x8 Game Design Competition, even though the game was originally played on a 7x7 board, as it is trivially extensible
-to larger board sizes.
+# Pacman Path Search
+The main objective of this program assignment 1 is to find the best way on the map. So, it
+will help the Pacman(P) to travel using the shortest ways, I have checked it by applying the
+multiple algorithms. So, for that purpose here is the given the travel map.
 
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents
@@ -21,17 +21,16 @@ to larger board sizes.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I have worked on developing path finding for the Breakthrogh game.
+I have worked on developing path finding for the Pacman game.
 
 
 ### Built With
 
 This section is going to list down all the frameworks/libraries used to build our project. Here are a few examples.
-* Min-Max
-* Alpha-Beta
-* Defensive Heuristic
-* Offensive Heuristic
-* Matchups
+* BFS
+* DFS
+* Uniform Cost Search
+* A* Search
 * Python
 
 ### Prerequisites
