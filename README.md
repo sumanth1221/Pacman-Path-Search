@@ -1,5 +1,5 @@
 # Pacman Path Search
-The main objective of this program assignment 1 is to find the best way on the map. So, it
+The main objective of this program is to find the best way on the map. So, it
 will help the Pacman(P) to travel using the shortest ways, I have checked it by applying the
 multiple algorithms. So, for that purpose here is the given the travel map.
 
